@@ -5,19 +5,22 @@ Ahmet Atahan Mutlu, Çağatay Sel ve Kaan Kıranbay olarak Mobil Uygulama Geliş
 ![Giriş Ekranı](Visuals/main_screen.png)   
 
 Demomuz için Roma İmparatorluğunu ve MÖ 58 yılını seçtik. Bu dönemi yazılı ve sesli şekilde geliştirdiğimiz bir tarih anlatıcımız yardımıyla çocuklara anlatıyoruz. 
-
+  
+  
 ---
 
 ![Şehir Ekranı](Visuals/city_screen.png)   
 
 Uygulamamızın giriş ekranında kullanıcılarımızı Roma şehrinin o tarihlerdeki bire bir modeli karşılamakta ve kullanıcılar şehirdeki yapılarla etkileşime geçip bilgi alabilmektedirler. Bu ekranımızda çocuklara seçtikleri uygarlığın ve döneminin mimarisini görsel ve etkilişimli bir şekilde anlatmayı hedefledik. Bu ekrandaki parşömene tıklandığında, Romalı 2 vatandaşın konuşmasına şahit oluyoruz.
 
+  
 ---
 
 ![Dialog Ekranı](Visuals/dialog_screen.png)   
 
 Bu diyalogda çocuklara o dönemin sosyokültürel yapısı hakkında kısa bilgiler veriyoruz ve sorular sorarak kullanıcının uygulama ile etkileşime geçmesini sağlıyoruz.    
 
+  
 ---
 
 ![Harita Ekranı](Visuals/map_screen.png) 
