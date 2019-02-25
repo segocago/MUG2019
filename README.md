@@ -1,6 +1,6 @@
 # Roket Takımı MUG2019 Uygulaması
 
-Ahmet Atahan Mutlu, Çağatay Sel ve Kaan Kıranbay olarak Mobil Uygulama Geliştirme (MUG) Maratonu 2019 için geliştirdiğimiz uygulamamıza geldiniz. Uygulamamızın amacı tarih eğitimini işitsel, görsel ve eğlence faktörleriyle pekiştirerek tarih eğitimini daha ilginç ve verimli bir hale getirmekti.
+Ahmet Atahan Mutlu, Çağatay Sel ve Kaan Kıranbay olarak Mobil Uygulama Geliştirme (MUG) Maratonu 2019 için geliştirdiğimiz uygulamamızın repository'sine hoş geldiniz. Uygulamamızın amacı tarih eğitimini işitsel, görsel ve eğlence faktörleriyle pekiştirerek tarih eğitimini daha ilginç ve verimli bir hale getirmekti.
 
 ![Giriş Ekranı](Visuals/main_screen.png)   
 
