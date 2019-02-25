@@ -10,7 +10,7 @@ Demomuz için Roma İmparatorluğunu ve MÖ 58 yılını seçtik. Bu dönemi yaz
 
 ![Şehir Ekranı](Visuals/city_screen.png)   
 
-Uygulamamızın giriş ekranında kullanıcılarımızı Roma şehrinin o tarihlerdeki bire bir modeli karşılamakta ve kullanıcılar şehirdeki yapılarla etkileşime geçip bilgi alabilmektedirler. Bu ekranımızda çocuklara seçtikleri uygarlığın ve döneminin mimarisini görsell ve etkilişimli bir şekilde anlatmayı hedefledik. Bu ekrandaki parşömene tıklandığında, Romalı 2 vatandaşın konuşmasına şahit oluyoruz.
+Uygulamamızın giriş ekranında kullanıcılarımızı Roma şehrinin o tarihlerdeki bire bir modeli karşılamakta ve kullanıcılar şehirdeki yapılarla etkileşime geçip bilgi alabilmektedirler. Bu ekranımızda çocuklara seçtikleri uygarlığın ve döneminin mimarisini görsel ve etkilişimli bir şekilde anlatmayı hedefledik. Bu ekrandaki parşömene tıklandığında, Romalı 2 vatandaşın konuşmasına şahit oluyoruz.
 
 ---
 
@@ -22,6 +22,6 @@ Bu diyalogda çocuklara o dönemin sosyokültürel yapısı hakkında kısa bilg
 
 ![Harita Ekranı](Visuals/map_screen.png) 
 
-Şehir ekranının köşesinde bulunan harita simgesine tıklayarak kullanıcılar harita sahnesine geçebiliyorlar. Bu sahnede çocuklar seçilen dönem ve uygarlığın sınırlarını ve komşularını görebiliyorlar. Harita üstünde çocuklar Jül Sezar'ın Galya Seferlerini oynuyorlar. Bu ekran ile çocuklara tarihi savaşları ve önemli olayları  harita üstünde, sebep ve sonuçları ile anlatmayı amaçlıyoruz.
+Şehir ekranının köşesinde bulunan harita simgesine tıklayarak kullanıcılar harita sahnesine geçebiliyorlar. Bu sahnede çocuklar seçilen dönem ve uygarlığın sınırlarını ve komşularını görebiliyorlar. Harita üstünde çocuklar Jül Sezar'ın Galya Seferlerini oynuyorlar. Bu ekran ile çocuklara tarihi savaşları ve önemli olayları  harita üstünde, sebep ve sonuçları ile anlatmayı amaçladık.
 
 
